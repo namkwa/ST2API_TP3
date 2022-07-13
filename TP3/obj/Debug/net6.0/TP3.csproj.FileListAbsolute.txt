@@ -1,0 +1,15 @@
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.csproj.AssemblyReference.cache
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.AssemblyInfoInputs.cache
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.AssemblyInfo.cs
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.csproj.CoreCompileInputs.cache
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\bin\Debug\net6.0\TP3.exe
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\bin\Debug\net6.0\TP3.deps.json
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\bin\Debug\net6.0\TP3.runtimeconfig.json
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\bin\Debug\net6.0\TP3.dll
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\bin\Debug\net6.0\TP3.pdb
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.dll
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\refint\TP3.dll
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.pdb
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\TP3.genruntimeconfig.cache
+D:\cours\M1\fontana C#\TP2_TP3\TP2\TP3\obj\Debug\net6.0\ref\TP3.dll
