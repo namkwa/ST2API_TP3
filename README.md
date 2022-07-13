@@ -1,5 +1,7 @@
 # ST2API_TP3
+
 ##Questions
+
 1)I didn't have any particular difficulties with TP2
 
 2) the S.O.L.I.D. principles are a set of rules to make object-oriented programming esaier to understand and maintain.
